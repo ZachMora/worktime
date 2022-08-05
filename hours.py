@@ -1,7 +1,5 @@
 #calculate Gusto hours
 
-
-
 Day_1 = (int(input("How many minutes did you work Monday? ")))
 Day_2 = (int(input("How many minutes did you work this Tuesday? ")))
 Day_3 = (int(input("How many minutes did you work this Wednesday? ")))
